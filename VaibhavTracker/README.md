@@ -1,0 +1,1 @@
+﻿Location Tracker is android application that detects the users location and sends it to an emergency number with a default message.
